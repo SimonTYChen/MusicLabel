@@ -1,0 +1,19 @@
+# Musics #
+###################
+*.m4a
+*.mp3
+*.wma
+*.wav
+*.flac
+*.alac
+
+# JSON files are too large, skip #
+###################
+*.json
+
+# generated files #
+######################
+.ipynb_checkpoints
+__pycache__
+
+######################
