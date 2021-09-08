@@ -1,9 +1,9 @@
 
-# Auto Classify Music into High/Slow Playlists
+# Labelling new musics for playlists with CNN model
 
 I usually put my musics into 2 playlists, a 'high' that wakes me up, is more upbeat, and is something I'm happy to listen to in the morning. A 'slow' list, which is something I'd like to hear at night. The music I listened to are mostly hip-hop, so it's not as easy as hip-hop = 'high', folk = 'slow' type of thing.
 
-Spotify would be great for this. However, some of my musics aren't available on spotify so I've been purchasing single songs and manage it myself. The usual process involves me listening to new songs 1 by 1, deciding which list it belongs to.
+Spotify would be great for this, it has music features like energy, danceability, and valence, among other useful features. However, some of my musics aren't available on spotify so I've been purchasing single songs and manage it myself. The usual process involves me listening to new songs 1 by 1, deciding which list it belongs to.
 
 Now I've had almost 400 songs in my phone, I built a ML model that would learn my taste/way to classify songs to save me time.
 
