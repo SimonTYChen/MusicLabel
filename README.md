@@ -1,5 +1,5 @@
 
-# Labelling new music into playlists with CNN model
+# Labeling new music into playlists with CNN model
 
 I usually put my musics into 2 playlists, a 'high' that wakes me up, is more upbeat, and is something I'm happy to listen to in the morning. A 'slow' list, which is something I'd like to hear at night. The music I listened to are mostly hip-hop, so it's not as easy as hip-hop = 'high', folk = 'slow' type of thing.
 
